@@ -1,0 +1,3 @@
+export const DATA_API_MINUTE = 'https://test.fxempire.com/api/v1/en/crypto-coin/chart/candles/histominute?aggregate=1&e=CCCAGG&fsym=BTC&tsym=usd';
+export const DATA_API_HOUR = 'https://test.fxempire.com/api/v1/en/crypto-coin/chart/candles/histohour?aggregate=1&e=CCCAGG&fsym=BTC&tsym=usd';
+export const DATA_API_WEEK = 'https://test.fxempire.com/api/v1/en/crypto-coin/chart/candles/histoday?aggregate=6&e=CCCAGG&fsym=BTC&tsym=usd';

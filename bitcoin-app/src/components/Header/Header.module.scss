@@ -1,0 +1,22 @@
+.root {
+    width: 700px;
+    height: 100px;
+    border: 1px solid;
+    margin: 40px auto;
+    display: flex;
+}
+
+.imgBitcoin {
+    height: 60px;
+    padding: 20px 
+}
+
+.data {
+    margin: 40px auto ;
+    display: flex;
+    flex-direction: row;
+}
+
+.item {
+    margin: 0 0 15px 15px;
+}
